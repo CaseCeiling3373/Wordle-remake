@@ -1,2 +1,2 @@
 # Wordle-remake
-https://ea-is-overpriced.github.io/Wordle-remake/
+https://caseceiling3373.github.io/Wordle-remake/
