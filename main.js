@@ -21,6 +21,9 @@ for(var i=0; i<6; i++){
 }
 
 function restart(){
+    if(isGaming){
+        return;
+    }
     for (var i=0; i<30; i++){
         tiles[i].className = "tile";
         tiles[i].innerHTML = "";
